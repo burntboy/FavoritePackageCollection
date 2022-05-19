@@ -1,0 +1,20 @@
+{
+    "name": "Jack's Favorite Packages",
+    "overview": "This collection contains my favorite Swift packages.",
+    "keywords": [
+        "favorite",
+        "Jack"
+    ],
+    "packages": [
+        {
+            "url": "https://github.com/pvieito/PythonKit.git",
+            "summary": "PythonKit Package",
+            "keywords": [
+                "PythonKit"
+            ]
+        }
+    ],
+    "author": {
+        "name": "Jack Kalmbach"
+    }
+}

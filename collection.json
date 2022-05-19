@@ -1,0 +1,116 @@
+{
+    "formatVersion": "1.0",
+    "generatedAt": "2022-05-19T03:17:30Z",
+    "generatedBy": {
+        "name": "Jack Kalmbach"
+    },
+    "keywords": [
+        "favorite",
+        "Jack"
+    ],
+    "name": "Jack's Favorite Packages",
+    "overview": "This collection contains my favorite Swift packages.",
+    "packages": [
+        {
+            "keywords": [
+                "PythonKit"
+            ],
+            "license": {
+                "name": "Apache-2.0",
+                "url": "https://raw.githubusercontent.com/pvieito/PythonKit/master/LICENSE.txt"
+            },
+            "readmeURL": "https://raw.githubusercontent.com/pvieito/PythonKit/master/README.md",
+            "summary": "PythonKit Package",
+            "url": "https://github.com/pvieito/PythonKit.git",
+            "versions": [
+                {
+                    "defaultToolsVersion": "5.1",
+                    "manifests": {
+                        "5.1": {
+                            "packageName": "PythonKit",
+                            "products": [
+                                {
+                                    "name": "PythonKit",
+                                    "targets": [
+                                        "PythonKit"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                }
+                            ],
+                            "targets": [
+                                {
+                                    "moduleName": "PythonKit",
+                                    "name": "PythonKit"
+                                }
+                            ],
+                            "toolsVersion": "5.1"
+                        }
+                    },
+                    "version": "v0.3.1"
+                },
+                {
+                    "defaultToolsVersion": "5.1",
+                    "manifests": {
+                        "5.1": {
+                            "packageName": "PythonKit",
+                            "products": [
+                                {
+                                    "name": "PythonKit",
+                                    "targets": [
+                                        "PythonKit"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                }
+                            ],
+                            "targets": [
+                                {
+                                    "moduleName": "PythonKit",
+                                    "name": "PythonKit"
+                                }
+                            ],
+                            "toolsVersion": "5.1"
+                        }
+                    },
+                    "version": "v0.3.0"
+                },
+                {
+                    "defaultToolsVersion": "5.1",
+                    "manifests": {
+                        "5.1": {
+                            "packageName": "PythonKit",
+                            "products": [
+                                {
+                                    "name": "PythonKit",
+                                    "targets": [
+                                        "PythonKit"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                }
+                            ],
+                            "targets": [
+                                {
+                                    "moduleName": "PythonKit",
+                                    "name": "PythonKit"
+                                }
+                            ],
+                            "toolsVersion": "5.1"
+                        }
+                    },
+                    "version": "v0.2.3"
+                }
+            ]
+        }
+    ]
+}
